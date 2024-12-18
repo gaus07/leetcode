@@ -1,5 +1,5 @@
 package Leetcode.Daily.December_2024;
-
+//Question Name - Make String a Subsequence Using Cyclic Increments
 public class Dec24_2825 {
     static boolean canMakeSubsequence(String str1, String str2) {
         int l = 0, r = 0;
